@@ -1,4 +1,4 @@
-# Flight-Price---EDA
+# Flight-Price-EDA
 The problem statement in this project addresses the volatility of flight ticket prices and the lack of transparency in the airline industry, leaving travelers uncertain about the optimal time to purchase tickets. The project aims to create a predictive model to recommend the best timing for ticket purchases by analyzing historical flight data from Ease My Trip, a popular flight booking platform in India. The project also seeks to debunk common myths in the airline industry and quantify potential savings achievable through informed ticket purchases.
 
 The dataset used for this research comprises 300,261 data points, each with 11 distinct features, providing comprehensive information related to flight bookings in India. These features include airline, flight code, source city, departure time, stops, arrival time, destination city, class, duration, days left, and price. Data collection and preparation involved ensuring data quality, handling missing values, managing outliers, and engineering new features like "Days Left" and categorizing "Departure Time" and "Arrival Time."
